@@ -1,0 +1,6 @@
+[user]
+	name = Vyktory Drakonis
+	email = vyktorydrakonis@gmx.com
+[core]
+	autocrlf = input
+        editor = nano
